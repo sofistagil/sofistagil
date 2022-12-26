@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Student of Applied Cybernetics at ANU 
+I am currently a postgraduate student of Applied Cybernetics at ANU 
 
 #### Current projects:
 [Interactive Device](https://github.com/sofistagil/cybernetics_project) to heal the connection between people and nature by using technology. 
