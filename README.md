@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+Student of Applied Cybernetics at ANU 
+
 #### Current projects:
 [Interactive Device](https://github.com/sofistagil/cybernetics_project) to heal the connection between people and nature by using technology. 
-Student of Applied Cybernetics at ANU 
+
+
 
 #### Languages and tools:
 ###### Python
