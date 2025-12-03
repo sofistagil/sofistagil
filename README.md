@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Cybernetician and human being in my free time 
+Front-end developer and human being in my free time 
 
 #### Current projects:
 [Interactive Device](https://github.com/sofistagil/cybernetics_project) to heal the connection between people and nature by using technology. 
@@ -8,7 +8,6 @@ Cybernetician and human being in my free time
 
 
 #### Languages and tools:
-###### Python
 ###### Java Script
 ###### HTML
 ###### CSS
